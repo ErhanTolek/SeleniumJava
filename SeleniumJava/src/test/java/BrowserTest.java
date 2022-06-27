@@ -19,7 +19,6 @@ public class BrowserTest {
 		System.setProperty("webdriver.chrome.driver", "C:/Users/Kron/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://google.com");
-		GoogleSearchPageObjects.set
 	}
 
 }
